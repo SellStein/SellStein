@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://sellstein.com">Website</a> •
   <a href="https://sellstein.com/docs">Documentation</a> •
-  <a href="https://x.com/sellstein">Twitter / X</a> •
+  <a href="https://x.com/sellsteinllc">Twitter / X</a> •
   <a href="mailto:help@sellstein.com">Contact</a>
 </p>
 
