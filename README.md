@@ -19,7 +19,7 @@
 
 ---
 
-## 👋 Welcome to SellStein Open Source
+## Welcome to SellStein Open Source
 
 We're **SellStein** — an ecommerce platform empowering merchants to build, scale, and manage online businesses with ease. We believe the best software is built in the open, and we're committed to sharing the tools, libraries, and resources that power our platform with the developer community.
 
@@ -27,7 +27,7 @@ This GitHub is the home of our **open-source projects**, including API client li
 
 ---
 
-## 🚀 What You'll Find Here
+## What You'll Find Here
 
 | Repository | Description |
 |:--|:--|
@@ -37,11 +37,11 @@ This GitHub is the home of our **open-source projects**, including API client li
 | **Developer Tools** | CLI tools, testing utilities, and development helpers |
 | **Themes & Templates** | Open-source storefront themes and UI component libraries |
 
-> 🔔 **Star** and **Watch** our repos to stay up to date with new releases and updates.
+> **Star** and **Watch** our repos to stay up to date with new releases and updates.
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -56,7 +56,7 @@ This GitHub is the home of our **open-source projects**, including API client li
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We love contributions from the community! Whether it's a bug fix, a new feature, or improvements to our documentation — every contribution makes SellStein better for everyone.
 
@@ -72,7 +72,7 @@ Please read our [Contributing Guide](https://sellstein.com/docs/contributing) an
 
 ---
 
-## 📬 Get In Touch
+## Get In Touch
 
 - 🌐 **Website:** [sellstein.com](https://sellstein.com)
 - 📧 **Email:** [help@sellstein.com](mailto:help@sellstein.com)
