@@ -76,11 +76,11 @@ Please read our [Contributing Guide](https://sellstein.com/docs/contributing) an
 
 - **Website:** [sellstein.com](https://sellstein.com)
 - **Email:** [help@sellstein.com](mailto:help@sellstein.com)
-- 🐦 **Twitter / X:** [@sellstein](https://x.com/sellstein)
-- 📖 **Developer Docs:** [sellstein.com/docs](https://sellstein.com/docs)
+- **Twitter / X:** [@sellstein](https://x.com/sellstein)
+- **Developer Docs:** [sellstein.com/docs](https://sellstein.com/docs)
 
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by the SellStein team</sub>
+  <sub>Made by the SellStein team</sub>
 </p>
